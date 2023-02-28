@@ -1,0 +1,1682 @@
+[
+    {
+        "text": "A.C. Cesena , in the Serie B League , has 23900 members and is located is Cesena .",
+        "triple_list": [
+            [
+                "A.C. Cesena",
+                "ground",
+                "Cesena"
+            ],
+            [
+                "A.C. Cesena",
+                "league",
+                "Serie B"
+            ],
+            [
+                "A.C. Cesena",
+                "numberOfMembers",
+                "23900"
+            ]
+        ]
+    },
+    {
+        "text": "AEK Athens F.C . ground is in Athens , they have 69618 members and they compete in the Superleague Greece .",
+        "triple_list": [
+            [
+                "AEK Athens",
+                "league",
+                "Superleague Greece"
+            ],
+            [
+                "AEK Athens",
+                "ground",
+                "Athens"
+            ],
+            [
+                "AEK Athens",
+                "numberOfMembers",
+                "69618"
+            ]
+        ]
+    },
+    {
+        "text": "The ground for AEK Athens FC is the Olympic Stadium ( Athens ) in Athens whose mayor is Giorgos Kaminis .",
+        "triple_list": [
+            [
+                "Olympic Stadium ( Athens )",
+                "location",
+                "Athens"
+            ],
+            [
+                "Athens",
+                "mayor",
+                "Giorgos Kaminis"
+            ],
+            [
+                "AEK Athens",
+                "ground",
+                "Olympic Stadium ( Athens )"
+            ]
+        ]
+    },
+    {
+        "text": "Abilene Regional Airport serves the city of Abilene which is part of Taylor County , Texas , in the United States .",
+        "triple_list": [
+            [
+                "Abilene Regional Airport",
+                "cityServed",
+                "Abilene"
+            ],
+            [
+                "Abilene",
+                "isPartOf",
+                "Taylor County , Texas"
+            ],
+            [
+                "Abilene",
+                "country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "text": "The 1st runway at Alderney Airport is made from Poaceae and has a length of 733.0 .",
+        "triple_list": [
+            [
+                "Alderney Airport",
+                "1st_runway_SurfaceType",
+                "Poaceae"
+            ],
+            [
+                "Alderney Airport",
+                "runwayLength",
+                "733.0"
+            ],
+            [
+                "Alderney Airport",
+                "cityServed",
+                "Alderney"
+            ]
+        ]
+    },
+    {
+        "text": "Amsterdam airport , Schipol which serves the city of Amsterdam is located at -3.3528 metres above sea level and has a runway length of 3500 .",
+        "triple_list": [
+            [
+                "Amsterdam",
+                "cityServed",
+                "Amsterdam"
+            ],
+            [
+                "Amsterdam",
+                "elevationAboveTheSeaLevel_(in_metres)",
+                "-3.3528"
+            ]
+        ]
+    },
+    {
+        "text": "The Flemish department of Mobility and Public Works is the operating organisation and owner of Antwerp International Airport that serves the city of Antwerp .",
+        "triple_list": [
+            [
+                "Antwerp International Airport",
+                "owner",
+                "Flemish"
+            ],
+            [
+                "Antwerp International Airport",
+                "cityServed",
+                "Antwerp"
+            ]
+        ]
+    },
+    {
+        "text": "Appleton International airport serves the city of Appleton which is part of Kimberly , Wisconsin , as is Little Chute .",
+        "triple_list": [
+            [
+                "Appleton",
+                "isPartOf",
+                "Kimberly , Wisconsin"
+            ],
+            [
+                "Appleton",
+                "isPartOf",
+                "Little Chute"
+            ],
+            [
+                "Appleton International",
+                "cityServed",
+                "Appleton"
+            ]
+        ]
+    },
+    {
+        "text": "Ashgabat International Airport ( located in Ashgabat ) is elevated 211 metres above sea level and has a runway length of 3800 .",
+        "triple_list": [
+            [
+                "Ashgabat International Airport",
+                "location",
+                "Ashgabat"
+            ],
+            [
+                "Ashgabat International Airport",
+                "elevationAboveTheSeaLevel_(in_metres)",
+                "211"
+            ]
+        ]
+    },
+    {
+        "text": "The Athens International Airport serves the city of Athens , in Greece where Alexis Tsipras is the leader .",
+        "triple_list": [
+            [
+                "Athens International Airport",
+                "cityServed",
+                "Athens"
+            ],
+            [
+                "Athens",
+                "country",
+                "Greece"
+            ],
+            [
+                "Greece",
+                "leaderName",
+                "Alexis Tsipras"
+            ]
+        ]
+    },
+    {
+        "text": "Antwerp International Airport serves the city of Antwerp in Belgium where the leader is Phillipe of Belgium .",
+        "triple_list": [
+            [
+                "Antwerp International Airport",
+                "cityServed",
+                "Antwerp"
+            ],
+            [
+                "Antwerp",
+                "country",
+                "Belgium"
+            ]
+        ]
+    },
+    {
+        "text": "The Acharya UNK of Technology offers tennis and it was established in 2000 . The tennis governing body is the International Tennis Federation .",
+        "triple_list": [
+            [
+                "Acharya",
+                "sportsOffered",
+                "Tennis"
+            ],
+            [
+                "Acharya",
+                "established",
+                "2000"
+            ],
+            [
+                "Tennis",
+                "sportsGoverningBody",
+                "International Tennis Federation"
+            ]
+        ]
+    },
+    {
+        "text": "Bacon and sausage are the main ingredients in a Bacon Explosion , which comes from the United States .",
+        "triple_list": [
+            [
+                "Bacon Explosion",
+                "country",
+                "United States"
+            ],
+            [
+                "Bacon Explosion",
+                "ingredient",
+                "Bacon"
+            ]
+        ]
+    },
+    {
+        "text": "Beef kway teow is a dish from the country of Singapore , where the leader is Halimah Yacob and the currency is the Singapore dollar .",
+        "triple_list": [
+            [
+                "Beef kway teow",
+                "country",
+                "Singapore"
+            ],
+            [
+                "Singapore",
+                "currency",
+                "Singapore dollar"
+            ],
+            [
+                "Singapore",
+                "leaderName",
+                "Halimah Yacob"
+            ]
+        ]
+    },
+    {
+        "text": "Addiction is the abbreviated version of the `` Addiction Journal '' which has the ISSN number 0965-2140 .",
+        "triple_list": [
+            [
+                "Addiction",
+                "academicDiscipline",
+                "Addiction"
+            ],
+            [
+                "Addiction",
+                "abbreviation",
+                "`` Addiction"
+            ],
+            [
+                "Addiction",
+                "ISSN_number",
+                "``"
+            ]
+        ]
+    },
+    {
+        "text": "The American Journal of Mathematics , abbreviated to Am.J.Math , whose academic discipline is Mathematics has ISSN UNK . 1080-6377 .",
+        "triple_list": [
+            [
+                "American Journal of Mathematics",
+                "academicDiscipline",
+                "Mathematics"
+            ]
+        ]
+    },
+    {
+        "text": "1 Decembrie 1918 University is located in the city of Alba Iulia , Romania . The country 's capital is Bucharest and the leader ( title Prime Minister of Romania ) is Klaus Iohannis . An ethnic group of the country is The Germans of Romania and the country 's national anthem is Deșteaptă-te , române !",
+        "triple_list": [
+            [
+                "Romania",
+                "ethnicGroup",
+                "Germans of Romania"
+            ],
+            [
+                "Romania",
+                "leaderTitle",
+                "Prime Minister of Romania"
+            ],
+            [
+                "Romania",
+                "leaderName",
+                "Klaus Iohannis"
+            ],
+            [
+                "Romania",
+                "capital",
+                "Bucharest"
+            ],
+            [
+                "1 Decembrie 1918 University",
+                "city",
+                "Alba Iulia"
+            ],
+            [
+                "1 Decembrie 1918 University",
+                "country",
+                "Romania"
+            ],
+            [
+                "Romania",
+                "anthem",
+                "Deșteaptă-te , române !"
+            ]
+        ]
+    },
+    {
+        "text": "The Baku Turkish Martyrs ' Memorial , which is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku , is located in Azerbaijan , where the official leader ( Prime Minister of Azerbaijan ) is called Artur Rasizade .",
+        "triple_list": [
+            [
+                "Azerbaijan",
+                "leaderTitle",
+                "Prime Minister of Azerbaijan"
+            ],
+            [
+                "Baku Turkish Martyrs ' Memorial",
+                "location",
+                "Azerbaijan"
+            ],
+            [
+                "Azerbaijan",
+                "leaderName",
+                "Artur Rasizade"
+            ]
+        ]
+    },
+    {
+        "text": "AZAL UNK , known as the Qarabag FK in the Azerbaijan Premier League is located in AZAL Arena and has 3500 members .",
+        "triple_list": [
+            [
+                "AZAL",
+                "league",
+                "Azerbaijan Premier League"
+            ],
+            [
+                "AZAL",
+                "numberOfMembers",
+                "3500"
+            ],
+            [
+                "AZAL",
+                "ground",
+                "AZAL Arena"
+            ]
+        ]
+    },
+    {
+        "text": "Elliot See attended the University of Texas in Austin which is affiliated to the University of Texas system . He died in St Louis which is part of the Kingdom of France .",
+        "triple_list": [
+            [
+                "Elliot See",
+                "almaMater",
+                "University of Texas"
+            ],
+            [
+                "University of Texas",
+                "affiliations",
+                "University of Texas"
+            ]
+        ]
+    },
+    {
+        "text": "With a runway length of 1,121 metres , Abilene regional airport serves Abilene , Texas , in the United States .",
+        "triple_list": [
+            [
+                "Abilene",
+                "cityServed",
+                "Abilene , Texas"
+            ],
+            [
+                "Abilene , Texas",
+                "isPartOf",
+                "Texas"
+            ],
+            [
+                "Abilene , Texas",
+                "country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "text": "The city of Amsterdam is served by Amsterdam Airport Schiphol which is -3.3528 metres above sea level . It has a runway length of 2014.0 meters and 06/24 , Kaagbaan , is the runway name .",
+        "triple_list": [
+            [
+                "Amsterdam Airport Schiphol",
+                "cityServed",
+                "Amsterdam"
+            ],
+            [
+                "Amsterdam Airport Schiphol",
+                "runwayLength",
+                "2014.0"
+            ],
+            [
+                "Amsterdam Airport Schiphol",
+                "elevationAboveTheSeaLevel_(in_metres)",
+                "-3.3528"
+            ]
+        ]
+    },
+    {
+        "text": "The Flemish Government runs the UNK region in Belgium where Antwerp is served by Antwerp International airport .",
+        "triple_list": [
+            [
+                "Antwerp International",
+                "cityServed",
+                "Antwerp"
+            ],
+            [
+                "Flemish",
+                "leaderName",
+                "Flemish Government"
+            ],
+            [
+                "Flemish",
+                "country",
+                "Belgium"
+            ],
+            [
+                "Flemish Government",
+                "jurisdiction",
+                "Flemish"
+            ]
+        ]
+    },
+    {
+        "text": "Asam pedas is a food found in Malaysia and Sumatra . Malaysian Malay is an ethnic group in Malaysia and Sumatra has an ethnic group called the Minangkabau people .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "country",
+                "Malaysia"
+            ],
+            [
+                "Malaysia",
+                "ethnicGroup",
+                "Malaysian Malay"
+            ],
+            [
+                "Sumatra",
+                "ethnicGroup",
+                "Minangkabau people"
+            ],
+            [
+                "Asam pedas",
+                "region",
+                "Sumatra"
+            ]
+        ]
+    },
+    {
+        "text": "The Bacon Explosion comes from the Kansas city metro area in the U.S . The main ingredient in it is bacon and also includes sausage .",
+        "triple_list": [
+            [
+                "Bacon Explosion",
+                "region",
+                "Kansas"
+            ],
+            [
+                "Bacon Explosion",
+                "mainIngredients",
+                "Bacon"
+            ]
+        ]
+    },
+    {
+        "text": "Bacon sandwiches are popular in the UK , have a variant called a BLT , include the ingredient bacon and sometimes go by the name of : bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm and bacon muffin .",
+        "triple_list": [
+            [
+                "Bacon",
+                "dishVariation",
+                "BLT"
+            ],
+            [
+                "Bacon",
+                "ingredient",
+                "Bacon"
+            ]
+        ]
+    },
+    {
+        "text": "The UNK tart is popular in the Derbyshire Dales area which is part of Derbyshire . It 's a variant of UNK pudding and uses frangipane .",
+        "triple_list": [
+            [
+                "Derbyshire Dales",
+                "isPartOf",
+                "Derbyshire"
+            ]
+        ]
+    },
+    {
+        "text": "From the Derbyshire Dales region ( in Derbyshire ) , UNK pudding . A variation of which , is Bakewell tart , its main ingredient is shortcrust pastry .",
+        "triple_list": [
+            [
+                "Bakewell",
+                "region",
+                "Derbyshire Dales"
+            ],
+            [
+                "Bakewell",
+                "dishVariation",
+                "Bakewell tart"
+            ],
+            [
+                "Derbyshire Dales",
+                "isPartOf",
+                "Derbyshire"
+            ]
+        ]
+    },
+    {
+        "text": "Bhajji comes from the country India , where two of the leaders are T.S . Thakur and Narendra Modi . It is also where the Indian rupee is the currency .",
+        "triple_list": [
+            [
+                "Bhajji",
+                "country",
+                "India"
+            ],
+            [
+                "India",
+                "currency",
+                "Indian rupee"
+            ],
+            [
+                "India",
+                "leaderName",
+                "Narendra Modi"
+            ]
+        ]
+    },
+    {
+        "text": "Bhajji originate from India where the Indian people come from . The leaders of the country are T S Thakur and Sumitra Mahajan .",
+        "triple_list": [
+            [
+                "Bhajji",
+                "country",
+                "India"
+            ],
+            [
+                "India",
+                "demonym",
+                "Indian people"
+            ],
+            [
+                "India",
+                "leaderName",
+                "Sumitra Mahajan"
+            ]
+        ]
+    },
+    {
+        "text": "The Addiction journal UNK the UNK of Addiction and has the LCCN number 93645978 . The abbreviated name is `` Addiction '' and the ISSN number is 1360-0443 .",
+        "triple_list": [
+            [
+                "Addiction",
+                "academicDiscipline",
+                "Addiction"
+            ],
+            [
+                "Addiction",
+                "LCCN_number",
+                "93645978"
+            ],
+            [
+                "Addiction",
+                "abbreviation",
+                "`` Addiction ''"
+            ],
+            [
+                "Addiction",
+                "ISSN_number",
+                "``"
+            ]
+        ]
+    },
+    {
+        "text": "The American Journal of Mathematics is abbreviated to Am . J . Math . and comes under the discipline of Math . It is published bimonthly and has the ISSN number 1080-6377 .",
+        "triple_list": [
+            [
+                "American Journal of Mathematics",
+                "academicDiscipline",
+                "Mathematics"
+            ]
+        ]
+    },
+    {
+        "text": "The academic discipline of the American Journal of Mathematics is Mathematics , published in 1878 .",
+        "triple_list": [
+            [
+                "American Journal of Mathematics",
+                "academicDiscipline",
+                "Mathematics"
+            ],
+            [
+                "American Journal of Mathematics",
+                "firstPublicationYear",
+                "1878"
+            ]
+        ]
+    },
+    {
+        "text": "The Accademia di Architettura di Mendrisio in Switzerland has a staff of 100 , the dean is named Mario Botta .",
+        "triple_list": [
+            [
+                "Accademia di Architettura di Mendrisio",
+                "country",
+                "Switzerland"
+            ],
+            [
+                "Accademia di Architettura di Mendrisio",
+                "dean",
+                "Mario Botta"
+            ],
+            [
+                "Accademia di Architettura di Mendrisio",
+                "city",
+                "Mendrisio"
+            ],
+            [
+                "Accademia di Architettura di Mendrisio",
+                "academicStaffSize",
+                "100"
+            ]
+        ]
+    },
+    {
+        "text": "The Accademia di Architettura di Mendrisio ( Dean - Mario Botta ) was established in 1996 , has an academic staff of 100 and is located in the city of Mendrisio .",
+        "triple_list": [
+            [
+                "Accademia di Architettura di Mendrisio",
+                "dean",
+                "Mario Botta"
+            ],
+            [
+                "Accademia di Architettura di Mendrisio",
+                "city",
+                "Mendrisio"
+            ],
+            [
+                "Accademia di Architettura di Mendrisio",
+                "established",
+                "1996"
+            ],
+            [
+                "Accademia di Architettura di Mendrisio",
+                "academicStaffSize",
+                "100"
+            ]
+        ]
+    },
+    {
+        "text": "The 1 Decembrie 1918 University is located in Romania ( capital Bucharest ) . The leader of Romania is Klaus lohannis and the ethnic group is Germans of Romania .",
+        "triple_list": [
+            [
+                "Romania",
+                "ethnicGroup",
+                "Germans of Romania"
+            ],
+            [
+                "Romania",
+                "leaderName",
+                "Klaus"
+            ],
+            [
+                "Romania",
+                "capital",
+                "Bucharest"
+            ],
+            [
+                "1 Decembrie 1918 University",
+                "country",
+                "Romania"
+            ]
+        ]
+    },
+    {
+        "text": "Cyril Ramaphosa is one of the leaders of South Africa , which capital is Cape Town . The address , 11 Diagonal Street is located in that country and one of the the ethnic groups is Asian South Africans .",
+        "triple_list": [
+            [
+                "11 Diagonal Street",
+                "location",
+                "South Africa"
+            ],
+            [
+                "South Africa",
+                "capital",
+                "Cape Town"
+            ],
+            [
+                "South Africa",
+                "leaderName",
+                "Cyril Ramaphosa"
+            ],
+            [
+                "South Africa",
+                "ethnicGroup",
+                "Asian South Africans"
+            ]
+        ]
+    },
+    {
+        "text": "With the capital of Cape Town , South Africa is the location of 11 Diagonal Street and has the ethnic groups of Asian South Africans and white South Africans .",
+        "triple_list": [
+            [
+                "11 Diagonal Street",
+                "location",
+                "South Africa"
+            ],
+            [
+                "South Africa",
+                "ethnicGroup",
+                "Asian South Africans"
+            ],
+            [
+                "South Africa",
+                "capital",
+                "Cape Town"
+            ]
+        ]
+    },
+    {
+        "text": "200 Public Square is located in Cleveland , Cuyahoga County , Ohio which is governed by Cleveland City Council .",
+        "triple_list": [
+            [
+                "200 Public Square",
+                "location",
+                "Cleveland"
+            ],
+            [
+                "Cleveland",
+                "isPartOf",
+                "Cuyahoga County , Ohio"
+            ],
+            [
+                "Cleveland",
+                "isPartOf",
+                "Ohio"
+            ],
+            [
+                "Cleveland",
+                "governingBody",
+                "Cleveland City Council"
+            ]
+        ]
+    },
+    {
+        "text": "Ampara Hospital is located in the Eastern Province of Sri Lanka , where the currency is the Ski Lankan rupee . One of the leaders of Sri Lanka is Ranil Wickremesinghe .",
+        "triple_list": [
+            [
+                "Ampara Hospital",
+                "country",
+                "Sri Lanka"
+            ],
+            [
+                "Sri Lanka",
+                "leaderName",
+                "Ranil Wickremesinghe"
+            ],
+            [
+                "Sri Lanka",
+                "currency",
+                "Sri"
+            ],
+            [
+                "Ampara Hospital",
+                "state",
+                "Eastern Province"
+            ]
+        ]
+    },
+    {
+        "text": "The architect John Madin was the designer of 103 Colmore Row , which is located in his home city of Birmingham . Labour politician , John Clancy is the leader of Birmingham and the city has the postal code ' B ' .",
+        "triple_list": [
+            [
+                "Birmingham",
+                "postalCode",
+                "B"
+            ],
+            [
+                "103 Colmore Row",
+                "architect",
+                "John Madin"
+            ],
+            [
+                "John Madin",
+                "hometown",
+                "Birmingham"
+            ],
+            [
+                "Birmingham",
+                "leaderName",
+                "John Clancy"
+            ]
+        ]
+    },
+    {
+        "text": "Addis Ababa , Ethiopia is home to Addis Ababa Stadium and the Addis Ababa City Hall . The name of the leader in Ethiopia is Malatu Teshome .",
+        "triple_list": [
+            [
+                "Addis Ababa",
+                "isPartOf",
+                "Addis Ababa Stadium"
+            ],
+            [
+                "Addis Ababa City Hall",
+                "country",
+                "Ethiopia"
+            ],
+            [
+                "Addis Ababa City Hall",
+                "location",
+                "Addis Ababa"
+            ]
+        ]
+    },
+    {
+        "text": "The Baku Turkish Martyrs ' Memorial was designed by Huseyin Butuner and Hilmi Guner and is located in Azerbaijan . It is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku . The leader , the Prime Minister of Azerbaijan is Artur Rasizade .",
+        "triple_list": [
+            [
+                "Azerbaijan",
+                "leaderTitle",
+                "Prime Minister of Azerbaijan"
+            ],
+            [
+                "Baku Turkish Martyrs ' Memorial",
+                "location",
+                "Azerbaijan"
+            ],
+            [
+                "Azerbaijan",
+                "leaderName",
+                "Artur Rasizade"
+            ]
+        ]
+    },
+    {
+        "text": "The Acharya Institute of Technology in Mumbai , Karnataka was given the `` Technological Campus '' status by the All India Council for Technical Education ( located in Mumbai ) . The Acharya Institute offers tennis and the sports governing body is the International Tennis Foundation . Karnataka has the Arabian Sea to its west .",
+        "triple_list": [
+            [
+                "Acharya Institute of Technology",
+                "was given the 'Technical Campus' status by",
+                "All India Council for Technical Education"
+            ],
+            [
+                "All India Council for Technical Education",
+                "location",
+                "Mumbai"
+            ],
+            [
+                "Acharya Institute of Technology",
+                "sportsOffered",
+                "Tennis"
+            ],
+            [
+                "Karnataka",
+                "has to its west",
+                "Arabian Sea"
+            ],
+            [
+                "Acharya Institute of Technology",
+                "state",
+                "Karnataka"
+            ],
+            [
+                "Tennis",
+                "sportsGoverningBody",
+                "International Tennis"
+            ]
+        ]
+    },
+    {
+        "text": "Acharya Institute of Technology is affiliated with Visvesvaraya Technological University in Belgium . The institute was given Technical Campus ' status by the All India Council for Technical Education in Mumbai . The institute offers tennis which is governed by the International Tennis Federation .",
+        "triple_list": [
+            [
+                "Acharya Institute of Technology",
+                "was given the 'Technical Campus' status by",
+                "All India Council for Technical Education"
+            ],
+            [
+                "All India Council for Technical Education",
+                "location",
+                "Mumbai"
+            ],
+            [
+                "Acharya Institute of Technology",
+                "sportsOffered",
+                "Tennis"
+            ],
+            [
+                "Tennis",
+                "sportsGoverningBody",
+                "International Tennis Federation"
+            ],
+            [
+                "Acharya Institute of Technology",
+                "affiliation",
+                "Visvesvaraya Technological University"
+            ]
+        ]
+    },
+    {
+        "text": "Bucharest is the capital of Romania where one of the country 's ethnic groups are the Germans of Romania . The country 's leader is Prime Minister Klaus Iohannis . The patron saint of the country is Andrew the Apostle and the country is the location of the 1 Decembrie 1918 University .",
+        "triple_list": [
+            [
+                "Romania",
+                "ethnicGroup",
+                "Germans of Romania"
+            ],
+            [
+                "Romania",
+                "leaderName",
+                "Klaus Iohannis"
+            ],
+            [
+                "Romania",
+                "leaderTitle",
+                "Prime Minister"
+            ],
+            [
+                "Romania",
+                "patronSaint",
+                "Andrew the Apostle"
+            ],
+            [
+                "Romania",
+                "capital",
+                "Bucharest"
+            ],
+            [
+                "1 Decembrie 1918 University",
+                "country",
+                "Romania"
+            ]
+        ]
+    },
+    {
+        "text": "The School of Business and Social Sciences at the Aarhus University is located in Aarhus , Denmark was established in 1928 . Its academic staff numbers 737 and it is affiliated to the European University Association . Denmark 's leader is Lars Lokke Rasmussen .",
+        "triple_list": [
+            [
+                "School of Business and Social Sciences at the Aarhus University",
+                "academicStaffSize",
+                "737"
+            ],
+            [
+                "Denmark",
+                "leaderName",
+                "Lars"
+            ],
+            [
+                "School of Business and Social Sciences at the Aarhus University",
+                "city",
+                "Aarhus"
+            ],
+            [
+                "School of Business and Social Sciences at the Aarhus University",
+                "country",
+                "Denmark"
+            ],
+            [
+                "School of Business and Social Sciences at the Aarhus University",
+                "affiliation",
+                "European University Association"
+            ],
+            [
+                "School of Business and Social Sciences at the Aarhus University",
+                "established",
+                "1928"
+            ]
+        ]
+    },
+    {
+        "text": "The School of Business and Social Sciences at the Aarhus University at Aarhus , Denmark was established in 1928 . It has 737 academic staff and 16,000 students . It is affiliated to the European University Association .",
+        "triple_list": [
+            [
+                "School of Business and Social Sciences at the Aarhus University",
+                "city",
+                "Aarhus"
+            ],
+            [
+                "School of Business and Social Sciences at the Aarhus University",
+                "academicStaffSize",
+                "737"
+            ],
+            [
+                "School of Business and Social Sciences at the Aarhus University",
+                "country",
+                "Denmark"
+            ],
+            [
+                "School of Business and Social Sciences at the Aarhus University",
+                "affiliation",
+                "European University Association"
+            ],
+            [
+                "School of Business and Social Sciences at the Aarhus University",
+                "established",
+                "1928"
+            ]
+        ]
+    },
+    {
+        "text": "Elliot See was born on 07/23/1927 in Dallas and died in St. Louis . He attended the University of Texas at Austin which is a part of the university of Texas system .",
+        "triple_list": [
+            [
+                "Elliot See",
+                "almaMater",
+                "University of Texas at Austin"
+            ],
+            [
+                "University of Texas at Austin",
+                "affiliations",
+                "University of Texas"
+            ],
+            [
+                "Elliot See",
+                "birthPlace",
+                "Dallas"
+            ],
+            [
+                "Elliot See",
+                "deathPlace",
+                "St. Louis"
+            ]
+        ]
+    },
+    {
+        "text": "Bacon is an ingredient in the main course dish ' Bacon Explosion ' .",
+        "triple_list": [
+            [
+                "Bacon",
+                "ingredient",
+                "Bacon"
+            ]
+        ]
+    },
+    {
+        "text": "The International Tennis Federation , which is the sport 's governing body , has UNK to UNK Acharya Institute of Technology offer tennis at the school .",
+        "triple_list": [
+            [
+                "Acharya Institute of Technology",
+                "sportsOffered",
+                "Tennis"
+            ],
+            [
+                "Tennis",
+                "sportsGoverningBody",
+                "International Tennis Federation"
+            ]
+        ]
+    },
+    {
+        "text": "Abilene is in Texas and is served by the Abilene regional airport .",
+        "triple_list": [
+            [
+                "Abilene",
+                "cityServed",
+                "Abilene"
+            ],
+            [
+                "Abilene",
+                "isPartOf",
+                "Texas"
+            ]
+        ]
+    },
+    {
+        "text": "The Schipol Group are the operators of Amsterdam Airport Schiphol , which is -3.3528 above sea level .",
+        "triple_list": [
+            [
+                "Amsterdam Airport Schiphol",
+                "elevationAboveTheSeaLevel_(in_metres)",
+                "-3.3528"
+            ],
+            [
+                "Amsterdam Airport Schiphol",
+                "operatingOrganisation",
+                "Schiphol"
+            ]
+        ]
+    },
+    {
+        "text": "The runway length at Ashgabat International airport , located in Ashgabat , is 3800.0 .",
+        "triple_list": [
+            [
+                "Ashgabat International",
+                "runwayLength",
+                "3800.0"
+            ],
+            [
+                "Ashgabat International",
+                "location",
+                "Ashgabat"
+            ]
+        ]
+    },
+    {
+        "text": "Athens International Airport is in Spata and serves the city of Athens .",
+        "triple_list": [
+            [
+                "Athens International Airport",
+                "cityServed",
+                "Athens"
+            ],
+            [
+                "Athens International Airport",
+                "location",
+                "Spata"
+            ]
+        ]
+    },
+    {
+        "text": "Athens International Airport serves the city of Athens and has a runway length of 3800.0 .",
+        "triple_list": [
+            [
+                "Athens International Airport",
+                "cityServed",
+                "Athens"
+            ],
+            [
+                "Athens International Airport",
+                "runwayLength",
+                "3800.0"
+            ]
+        ]
+    },
+    {
+        "text": "AFC Ajax has 53502 members and is the owner of AFC Ajax NV .",
+        "triple_list": [
+            [
+                "AFC Ajax",
+                "owner",
+                "AFC Ajax"
+            ],
+            [
+                "AFC Ajax",
+                "numberOfMembers",
+                "53502"
+            ]
+        ]
+    },
+    {
+        "text": "103 Colmore Row is located at Colmore Row .",
+        "triple_list": [
+            [
+                "103 Colmore Row",
+                "location",
+                "Colmore Row"
+            ]
+        ]
+    },
+    {
+        "text": "Birmingham has the postcode area ' B ' .",
+        "triple_list": [
+            [
+                "Birmingham",
+                "postalCode",
+                "B"
+            ]
+        ]
+    },
+    {
+        "text": "Native Americans in the United States are one of the ethnic groups of the country .",
+        "triple_list": [
+            [
+                "United States",
+                "ethnicGroup",
+                "Native Americans in the United States"
+            ]
+        ]
+    },
+    {
+        "text": "Agra Airport is in Agra .",
+        "triple_list": [
+            [
+                "Agra Airport",
+                "location",
+                "Agra"
+            ]
+        ]
+    },
+    {
+        "text": "The Alderney Airport serves Alderney .",
+        "triple_list": [
+            [
+                "Alderney Airport",
+                "cityServed",
+                "Alderney"
+            ]
+        ]
+    },
+    {
+        "text": "Amsterdam Airport Schiphol serves the city of Amsterdam .",
+        "triple_list": [
+            [
+                "Amsterdam Airport Schiphol",
+                "cityServed",
+                "Amsterdam"
+            ]
+        ]
+    },
+    {
+        "text": "Andrews Country Airport 's city is served by Andrews , Texas .",
+        "triple_list": [
+            [
+                "Andrews",
+                "cityServed",
+                "Andrews , Texas"
+            ]
+        ]
+    },
+    {
+        "text": "Philippe of Belgium is the leader of Belgium .",
+        "triple_list": [
+            [
+                "Belgium",
+                "leaderName",
+                "Philippe of Belgium"
+            ]
+        ]
+    },
+    {
+        "text": "The Flemish region is led by the Flemish government .",
+        "triple_list": [
+            [
+                "Flemish",
+                "leaderName",
+                "Flemish"
+            ]
+        ]
+    },
+    {
+        "text": "Alba Iulia os part of the county of Alba .",
+        "triple_list": [
+            [
+                "Alba Iulia",
+                "isPartOf",
+                "Alba"
+            ]
+        ]
+    },
+    {
+        "text": "UNK University is nicknamed Cornell Big Red .",
+        "triple_list": [
+            [
+                "Cornell",
+                "nickname",
+                "Cornell Big Red"
+            ]
+        ]
+    },
+    {
+        "text": "1 FC Magdeburg played in the 2014 season .",
+        "triple_list": [
+            [
+                "1",
+                "season",
+                "2014"
+            ]
+        ]
+    },
+    {
+        "text": "Amsterdam-Centrum is part of Amsterdam .",
+        "triple_list": [
+            [
+                "Amsterdam",
+                "part",
+                "Amsterdam-Centrum"
+            ]
+        ]
+    },
+    {
+        "text": "Elliot See was born in Dallas , which is a county in Texas . He attended the University of Texas at Austin , which is affiliated to the University of Texas system . The University of Texas at Austin will be part of the Big 12 Conference competition .",
+        "triple_list": [
+            [
+                "Elliot See",
+                "almaMater",
+                "University of Texas at Austin"
+            ],
+            [
+                "University of Texas at Austin",
+                "affiliations",
+                "University of Texas"
+            ],
+            [
+                "Elliot See",
+                "birthPlace",
+                "Dallas"
+            ],
+            [
+                "University of Texas at Austin",
+                "compete in",
+                "Big 12 Conference"
+            ]
+        ]
+    },
+    {
+        "text": "Elliot See was born in Dallas and studied at the University of Texas in Austin ( which is affiliated to the university of Texas system ) . He died in St. Louis .",
+        "triple_list": [
+            [
+                "Elliot See",
+                "almaMater",
+                "University of Texas"
+            ],
+            [
+                "University of Texas",
+                "affiliations",
+                "University of Texas"
+            ],
+            [
+                "Elliot See",
+                "birthPlace",
+                "Dallas"
+            ],
+            [
+                "Elliot See",
+                "deathPlace",
+                "St. Louis"
+            ]
+        ]
+    },
+    {
+        "text": "The Administrative Science Quarterly is published by Cornell University , Ithaca , in the state of New York . Cornell University ( nicknamed ' Cornell Big Red ' ) is affiliated with the Association of Public and Land Grant Universities .",
+        "triple_list": [
+            [
+                "Administrative Science Quarterly",
+                "publisher",
+                "Cornell University"
+            ],
+            [
+                "Cornell University",
+                "nickname",
+                "Cornell"
+            ],
+            [
+                "Cornell University",
+                "affiliation",
+                "Association of Public and"
+            ],
+            [
+                "Cornell University",
+                "state",
+                "New York"
+            ],
+            [
+                "Cornell University",
+                "city",
+                "Ithaca ,"
+            ]
+        ]
+    },
+    {
+        "text": "The capital of Azerbaijan is Baku and the leader and Prime Minister of Azerbaijan is called Artur Rasizade . The Baku Turkish Martyr 's Memorial is located in Azerbaijan and the legislature is known as the National Assembly .",
+        "triple_list": [
+            [
+                "Azerbaijan",
+                "capital",
+                "Baku"
+            ],
+            [
+                "Azerbaijan",
+                "leaderTitle",
+                "Prime Minister of Azerbaijan"
+            ],
+            [
+                "Baku Turkish",
+                "location",
+                "Azerbaijan"
+            ],
+            [
+                "Azerbaijan",
+                "leaderName",
+                "Artur Rasizade"
+            ],
+            [
+                "Azerbaijan",
+                "legislature",
+                "National Assembly"
+            ]
+        ]
+    },
+    {
+        "text": "With a runway length of 2194.0 , Abilene regional airport serves UNK , part of Jones County , Texas , in the United States .",
+        "triple_list": [
+            [
+                "Abilene",
+                "cityServed",
+                "Abilene"
+            ],
+            [
+                "Abilene",
+                "isPartOf",
+                "Texas"
+            ],
+            [
+                "Abilene",
+                "runwayLength",
+                "2194.0"
+            ],
+            [
+                "Abilene",
+                "country",
+                "United States"
+            ],
+            [
+                "Abilene",
+                "isPartOf",
+                "Jones County , Texas"
+            ]
+        ]
+    },
+    {
+        "text": "Abilene , Texas is served by Abilene regional airport which is 546 metres above sea level and has the ICAO location identifier of KABI . It has the runway name of 17L/35R with a length of 2194.0 .",
+        "triple_list": [
+            [
+                "Abilene",
+                "cityServed",
+                "Abilene , Texas"
+            ],
+            [
+                "Abilene",
+                "runwayLength",
+                "2194.0"
+            ],
+            [
+                "Abilene",
+                "elevationAboveTheSeaLevel_(in_metres)",
+                "546"
+            ]
+        ]
+    },
+    {
+        "text": "Serving the city of Abilene in Texas , is Abilene Regional Airport . It has the ICAO location identifier KABI and the runway name 17R/35L . The airport is 546 metres above sea level and has a runway length of 2194.0 .",
+        "triple_list": [
+            [
+                "Abilene Regional Airport",
+                "cityServed",
+                "Abilene"
+            ],
+            [
+                "Abilene Regional Airport",
+                "runwayLength",
+                "2194.0"
+            ],
+            [
+                "Abilene Regional Airport",
+                "elevationAboveTheSeaLevel_(in_metres)",
+                "546"
+            ]
+        ]
+    },
+    {
+        "text": "Al Asad airbase is operated by the United States Air Force . Some of its aircraft include the Boeing C-17 Globemaster III ( transport aircraft ) , General Dynamics F-16 Fighting Falcon ( aircraft fighter ) , and the Lockheed AC-130 which can be found on USAF aircraft carriers . The USAF was involved in the Invasion of Panama .",
+        "triple_list": [
+            [
+                "Al Asad",
+                "operatingOrganisation",
+                "United States Air Force"
+            ],
+            [
+                "United States Air Force",
+                "attackAircraft",
+                "Lockheed AC-130"
+            ],
+            [
+                "United States Air Force",
+                "transportAircraft",
+                "Boeing C-17 Globemaster III"
+            ],
+            [
+                "United States Air Force",
+                "aircraftFighter",
+                "General Dynamics F-16 Fighting Falcon"
+            ],
+            [
+                "United States Air Force",
+                "battles",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "text": "The UNK of Grenada and Panama in involved the United States Air Force which now operates the Al Asad airbase . The Air Force has several types of aircraft such as the Boeing C-17 Globemaster III transport aircraft and the Lockheed AC-130 which can be found on USAF aircraft carriers .",
+        "triple_list": [
+            [
+                "Al Asad",
+                "operatingOrganisation",
+                "United States Air Force"
+            ],
+            [
+                "United States Air Force",
+                "attackAircraft",
+                "Lockheed AC-130"
+            ],
+            [
+                "United States Air Force",
+                "transportAircraft",
+                "Boeing C-17 Globemaster III"
+            ],
+            [
+                "United States Air Force",
+                "battles",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "text": "The Flemish department of Mobility and Public Works is the operating organisation of Antwerp International Airport which is owned by the Flemish Region . The airport serves the city of Antwerp , is 12.0 metres above sea level , and has a runway length of 600.0 .",
+        "triple_list": [
+            [
+                "Antwerp International Airport",
+                "owner",
+                "Flemish Region"
+            ],
+            [
+                "Antwerp International Airport",
+                "cityServed",
+                "Antwerp"
+            ],
+            [
+                "Antwerp International Airport",
+                "elevationAboveTheSeaLevel_(in_metres)",
+                "12.0"
+            ],
+            [
+                "Antwerp International Airport",
+                "runwayLength",
+                "600.0"
+            ]
+        ]
+    },
+    {
+        "text": "The city of Appleton is served by Appleton International Airport located 280 metres above sea level in Greenville , Wisconsin . The runway at the airport is 3/21 and is 2439 in length .",
+        "triple_list": [
+            [
+                "Appleton International Airport",
+                "location",
+                "Greenville , Wisconsin"
+            ],
+            [
+                "Appleton International Airport",
+                "cityServed",
+                "Appleton"
+            ],
+            [
+                "Appleton International Airport",
+                "elevationAboveTheSeaLevel_(in_metres)",
+                "280"
+            ]
+        ]
+    },
+    {
+        "text": "The city of Appleton is served by Appleton International Airport in Greenville ( part of Menasha ) , Clayton Winnebago County , Wisconsin , United States .",
+        "triple_list": [
+            [
+                "Appleton International Airport",
+                "location",
+                "Greenville"
+            ],
+            [
+                "Greenville",
+                "isPartOf",
+                "Menasha"
+            ],
+            [
+                "Greenville",
+                "country",
+                "United States"
+            ],
+            [
+                "Appleton International Airport",
+                "cityServed",
+                "Appleton"
+            ],
+            [
+                "Greenville",
+                "isPartOf",
+                "Clayton"
+            ]
+        ]
+    },
+    {
+        "text": "Turkmenistan Airlines operates Ashgabat International Airport in Ashgabat . The airport is 211 metres above sea level , has the runway length of 2989.0 and 12R/30L is the runway name .",
+        "triple_list": [
+            [
+                "Ashgabat International Airport",
+                "operatingOrganisation",
+                "Turkmenistan Airlines"
+            ],
+            [
+                "Ashgabat International Airport",
+                "location",
+                "Ashgabat"
+            ],
+            [
+                "Ashgabat International Airport",
+                "runwayLength",
+                "2989.0"
+            ],
+            [
+                "Ashgabat International Airport",
+                "elevationAboveTheSeaLevel_(in_metres)",
+                "211"
+            ]
+        ]
+    },
+    {
+        "text": "The Flemish Government have jurisdiction over the Flemish Region of Belgium . The leader of the country is Charles Michel and the city of Antwerp is served by Antwerp International Airport .",
+        "triple_list": [
+            [
+                "Belgium",
+                "leaderName",
+                "Charles Michel"
+            ],
+            [
+                "Antwerp International Airport",
+                "cityServed",
+                "Antwerp"
+            ],
+            [
+                "Flemish Region",
+                "leaderName",
+                "Flemish Government"
+            ],
+            [
+                "Flemish Region",
+                "country",
+                "Belgium"
+            ],
+            [
+                "Flemish Government",
+                "jurisdiction",
+                "Flemish Region"
+            ]
+        ]
+    },
+    {
+        "text": "Adisham Hall is located in Haputale , Sri Lanka . The capital of Sri Lanka is Sri Jayawardenepura Kotte , the language used in the country is Tamil and the currency is the Sri Lankan Rupee .",
+        "triple_list": [
+            [
+                "Adisham Hall",
+                "country",
+                "Sri Lanka"
+            ],
+            [
+                "Sri Lanka",
+                "capital",
+                "Sri Jayawardenepura Kotte"
+            ],
+            [
+                "Sri Lanka",
+                "language",
+                "Tamil"
+            ],
+            [
+                "Sri Lanka",
+                "currency",
+                "Sri Lankan"
+            ]
+        ]
+    }
+]
